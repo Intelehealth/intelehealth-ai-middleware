@@ -82,7 +82,7 @@ TTX_MODEL_NAME=XXXX
 
 ### Timezone
 ```env
-TIMEZONE=Asia/Calcutta
+TIMEZONE=XXXX
 ```
 
 ### Database Constants
