@@ -250,7 +250,7 @@ The application uses structured logging with the following components:
 ```
 /
 ├── index.py              # Main Flask application
-├── ai.env                # Environment configuration
+├── ai.env.example        # Environment configuration example
 ├── requirements.txt      # Python dependencies
 ├── README.md            # This file
 ├── loggerddx.py         # DDX logging configuration
