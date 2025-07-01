@@ -53,8 +53,8 @@ FLASK_HOST=0.0.0.0
 
 ### Base URLs
 ```env
-BASE_URL=https://nasstaging.intelehealth.org
-SNOMED_BASE_URL=https://snomed.intelehealth.org
+BASE_URL=XXXX
+SNOMED_BASE_URL=XXXX
 ```
 
 ### Database Configuration
