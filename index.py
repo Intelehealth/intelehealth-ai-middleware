@@ -44,7 +44,7 @@ from loggerttx import loggerttx
 from elasticsearch import Elasticsearch
 from dotenv import load_dotenv
 
-# Load environment variables from uiux.env file
+# Load environment variables from ai.env file
 load_dotenv('ai.env')
 
 # Configure retry strategy for HTTP requests
